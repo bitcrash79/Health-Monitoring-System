@@ -41,7 +41,7 @@ The ESP32 continuously reads temperature data from the DHT22 sensor and pulse va
 
 ## Serial Monitor Output
 
-![Serial](images/Serial_monitor.png)
+![Serial](Serial_monitor.png)
 
 ## Software and Tools
 - Arduino IDE
